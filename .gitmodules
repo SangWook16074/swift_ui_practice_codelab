@@ -1,0 +1,6 @@
+[submodule "Hello-Swift-UI"]
+	path = Hello-Swift-UI
+	url = https://github.com/SangWook16074/Hello-Swift-UI.git
+[submodule "Customize-views-and-properties"]
+	path = Customize-views-and-properties
+	url = https://github.com/SangWook16074/Customize-views-and-properties.git
