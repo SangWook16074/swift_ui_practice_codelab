@@ -4,3 +4,6 @@
 [submodule "Customize-views-and-properties"]
 	path = Customize-views-and-properties
 	url = https://github.com/SangWook16074/Customize-views-and-properties.git
+[submodule "Design-an-interface"]
+	path = Design-an-interface
+	url = https://github.com/SangWook16074/Design-an-interface.git
