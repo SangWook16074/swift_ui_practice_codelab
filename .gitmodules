@@ -7,3 +7,6 @@
 [submodule "Design-an-interface"]
 	path = Design-an-interface
 	url = https://github.com/SangWook16074/Design-an-interface.git
+[submodule "Update-UI-with-State"]
+	path = Update-UI-with-State
+	url = https://github.com/SangWook16074/Update-UI-with-State.git
