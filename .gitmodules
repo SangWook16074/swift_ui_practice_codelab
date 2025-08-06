@@ -10,3 +10,6 @@
 [submodule "Update-UI-with-State"]
 	path = Update-UI-with-State
 	url = https://github.com/SangWook16074/Update-UI-with-State.git
+[submodule "PickaPal"]
+	path = PickaPal
+	url = https://github.com/SangWook16074/PickaPal.git
